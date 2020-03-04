@@ -1,0 +1,51 @@
+/* Add here all your CSS customizations */
+.phoneline .fas {
+    color: #F57EB6 !important;
+}
+
+.phoneline .line-name {
+    margin-left: 10px;
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.phoneline a {
+    margin-left: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+.ra-social-link i {
+    color: #000;
+    font-size: 1.5em;
+    margin-top: 5px;
+}
+
+.social-icons-twitch a {
+    background: #FF8DA1 !important;
+}
+
+.social-icons-twitter a {
+    background: #F0EC74 !important;
+}
+
+.ra-twitch {
+    background: #FF8DA1 !important;
+}
+
+.ra-twitter {
+    background: #F0EC74 !important;
+}
+
+.ra-instagram {
+    background: #8EDD65 !important;
+}
+
+.ra-youtube {
+    background: #62B5E5 !important;
+}
+
+.ra-website {
+    background: #A7A4E0 !important;
+}
