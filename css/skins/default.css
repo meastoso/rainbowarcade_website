@@ -93,7 +93,7 @@ html .bg-primary {
 }
 
 html .bg-primary.primary-ra {
-	background-image: url("/ra/img/ra_assets/RainbowArcade_BG.png");
+	background-image: url("/img/ra_assets/RainbowArcade_BG.png");
 	position: relative;
 }
 
@@ -684,8 +684,8 @@ html .btn-primary.focus {
 
 html .btn-primary.disabled,
 html .btn-primary:disabled {
-	background-color: #0088CC;
-	border-color: #0088CC #0088CC #006699;
+	background-color: #FFF;
+	color: #5345BF;
 }
 
 html .btn-primary:active,

@@ -13248,7 +13248,7 @@ html.boxed .slider-container {
 	z-index: 2;
 	max-width: 90%;
 	font-size: 17px;
-	padding: 13px 21px 2px;
+	padding: 2px 21px 2px;
 	bottom: 13%;
 }
 
@@ -13749,6 +13749,7 @@ html.boxed .slider-container {
 	margin: 0;
 	padding: 0;
 	display: block;
+	margin-top: 5px;
 }
 
 .thumb-info-social-icons a {
