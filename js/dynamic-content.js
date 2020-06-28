@@ -9,7 +9,6 @@ $( document ).ready(function() {
 function initializeMembers() {
     $.getJSON("/ra-admin/members.json", function(response) {
         const membersArr = response["members"];
-        console.log("membersArr length is: " + membersArr.length);
         // sort by priority
         const sortedMembers = sortItems(membersArr);
         let memberIndex = 0;
@@ -65,7 +64,7 @@ function getProjectHTML(projectObj) {
         '<img src="/ra-admin/projects-assets/' + projectObj["image"] + '" class="img-fluid" alt="">' +
         '<span class="thumb-info-title">' +
         '<span class="thumb-info-inner">' + projectObj["title"] + '</span>' +
-        '<span class="thumb-info-type project-type-video">' + projectObj["type"]?.toUpperCase() + '</span>' +
+        '<span class="thumb-info-type project-type-video">' + projectObj["type"] && projectObj["type"].toUpperCase() + '</span>' +
         '</span>' +
         '<span class="thumb-info-action">' +
         '<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>' +
@@ -79,7 +78,6 @@ function getProjectHTML(projectObj) {
 
 function getNewMemberRow() {
     return '<div class="row pb-5 mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"></div>'
-    return '<div class="row pb-5 mb-5" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"></div>'
 }
 
 function getMemberHTML(member) {
@@ -110,8 +108,8 @@ function getMemberHTML(member) {
     '</span>' +
     '</div>'
     let memberHTML = initialHTML
-        .replace('KEY.NAME', member.name?.toUpperCase())
-        .replace('KEY.TYPE', member.type?.toUpperCase())
+        .replace('KEY.NAME', member.name && member.name.toUpperCase())
+        .replace('KEY.TYPE', member.type && member.type.toUpperCase())
         .replace('KEY.IMAGE', member.image)
         .replace('KEY.DESCRIPTION', member.description)
 
