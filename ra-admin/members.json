@@ -483,17 +483,6 @@
       "image": "BenSquare.png"
     },
     {
-      "name": "JIMBABY",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Jimbaby is a 26 year old, proud, body positive gay man. He’s a variety streamer and a lover of all things Pokémon and Elder Scrolls. RPGs are his favorite, but he also has a soft spot for world-builders like Minecraft and Spore. He talks with his hands and his streaming goal is to make you smile.",
-      "priority": 1,
-      "twitch": "Jimbaby",
-      "twitter": "Jimmyschleisman",
-      "instagram": "Jimmyschleisman",
-      "image": "JimSquare.JPG"
-    },
-    {
       "name": "NOLAY",
       "title": "",
       "type": "VARIETY + ARTIST",
@@ -504,6 +493,17 @@
       "instagram": "itsnolay",
       "youtube": "ItsNolay",
       "image": "NolaySquare.png"
+    },
+    {
+      "name": "JIMBABY",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Jimbaby is a 26 year old, proud, body positive gay man. He’s a variety streamer and a lover of all things Pokémon and Elder Scrolls. RPGs are his favorite, but he also has a soft spot for world-builders like Minecraft and Spore. He talks with his hands and his streaming goal is to make you smile.",
+      "priority": 1,
+      "twitch": "Jimbaby",
+      "twitter": "Jimmyschleisman",
+      "instagram": "Jimmyschleisman",
+      "image": "JimSquare.JPG"
     }
   ]
 }
