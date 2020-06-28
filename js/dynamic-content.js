@@ -56,6 +56,7 @@ function initializeProjects() {
 }
 
 function getProjectHTML(projectObj) {
+    var projectType = projectObj["type"] && projectObj["type"].toUpperCase();
     return '<div>' +
         '<div class="portfolio-item">' +
         '<a href="' + projectObj["project-url"] + '" target="_blank">' +
@@ -64,7 +65,7 @@ function getProjectHTML(projectObj) {
         '<img src="/ra-admin/projects-assets/' + projectObj["image"] + '" class="img-fluid" alt="">' +
         '<span class="thumb-info-title">' +
         '<span class="thumb-info-inner">' + projectObj["title"] + '</span>' +
-        '<span class="thumb-info-type project-type-video">' + projectObj["type"] && projectObj["type"].toUpperCase() + '</span>' +
+        '<span class="thumb-info-type project-type-video">' + projectType + '</span>' +
         '</span>' +
         '<span class="thumb-info-action">' +
         '<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>' +
