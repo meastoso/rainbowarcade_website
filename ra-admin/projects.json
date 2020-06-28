@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "title": "Team Introductions",
+      "type": "video",
+      "priority": 1,
+      "project-url": "https://www.youtube.com/watch?v=cNFhvw8vaCo&list=PLjnfo89gEixOsVIqXb4xFMQSF6kdzZdz0",
+      "image": "video_project.png"
+    },
+    {
+      "title": "Black History Month",
+      "type": "video",
+      "priority": 2,
+      "project-url": "https://www.youtube.com/watch?v=H__-Y4jvyFw",
+      "image": "bhm_edited.png"
+    },
+    {
+      "title": "WWF Australia Visit",
+      "type": "video",
+      "priority": 1,
+      "project-url": "https://www.youtube.com/watch?v=AbaKCw0_Xw8",
+      "image": "wwf_projects.png"
+    },
+    {
+      "title": "Women's History Month",
+      "type": "video",
+      "priority": 3,
+      "project-url": "https://www.youtube.com/watch?v=dginU52_wC8",
+      "image": "womens-history-month.png"
+    },
+    {
+      "title": "Lesbian Visibility Day",
+      "type": "video",
+      "priority": 5,
+      "project-url": "https://www.youtube.com/watch?v=Ah0VOVUodos&feature=youtu.be",
+      "image": "lesbian-day.png"
+    }
+  ]
+}

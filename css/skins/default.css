@@ -2262,23 +2262,23 @@ html .page-header-color.page-header-light .breadcrumb > .active {
 }
 
 html .toggle-primary .toggle label {
-	color: #0088CC;
-	border-left-color: #0088CC;
-	border-right-color: #0088CC;
+	color: #685b7c;
+	border-left-color: #685b7c;
+	border-right-color: #685b7c;
 }
 
 html .toggle-primary .toggle.active > label {
-	background-color: #0088CC;
-	border-color: #0088CC;
+	background-color: #685b7c;
+	border-color: #685b7c;
 	color: #FFF;
 }
 
 html .toggle-primary.toggle-simple .toggle > label:after {
-	background-color: #0088CC;
+	background-color: #685b7c;
 }
 
 html .toggle-primary.toggle-minimal .toggle.active > label {
-	color: #0088CC;
+	color: #685b7c;
 }
 
 html .toggle-secondary .toggle label {
@@ -2496,22 +2496,22 @@ html .inverted-light {
 }
 
 .owl-carousel .owl-nav button[class*="owl-"] {
-	background-color: #0088CC;
-	border-color: #0088CC #0088CC #006699;
+	background-color: #685BC7;
+	border-color: #685BC7 #685BC7 #4c41a1;
 	color: #FFF;
 }
 
 .owl-carousel .owl-nav button[class*="owl-"]:hover,
 .owl-carousel .owl-nav button[class*="owl-"].hover {
-	background-color: #00a1f2;
-	border-color: #00aaff #00aaff #0088CC;
+	background-color: #685BC7;
+	border-color: #685BC7 #685BC7 #4c41a1;
 }
 
 .owl-carousel .owl-nav button[class*="owl-"]:active,
 .owl-carousel .owl-nav button[class*="owl-"].active {
-	background-color: #006ea6;
+	background-color: #4c41a1;
 	background-image: none;
-	border-color: #006699 #006699 #004466;
+	border-color: #4c41a1 #4c41a1 #302778;
 }
 
 .owl-carousel.nav-with-transparency:not(.nav-style-1):not(.show-nav-title) .owl-nav button[class*="owl-"] {
@@ -5727,4 +5727,8 @@ html .slide-overlay.slide-overlay-gradient .slotholder:after {
 
 html.boxed .body {
 	border-top-color: #0088CC;
+}
+
+.ontop {
+	z-index: 5;
 }
