@@ -114,10 +114,10 @@
     },
     {
       "name": "FRANKTHEPEGASUS",
-      "title": "",
+      "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "FrankthePegasus is an excitable gamer who giggles her way through simulation and sandbox games. She makes games come alive by putting herself in silly situations to make others laugh. Frank's specialty is her ability to connect with her viewers and her passion for bringing good into the world via charity.\n",
-      "priority": 1,
+      "priority": 10,
       "twitch": "FrankthePegasus",
       "twitter": "FrankthePegasus",
       "instagram": "FrankthePegasus",
@@ -240,10 +240,10 @@
     },
     {
       "name": "MERMAIDQUEENJUDE",
-      "title": "",
+      "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Jude is a content creator, sailor guardian, and cat mom. She is a bisexual nonbinary femme (she/her & they/them) who plays mainly storybased and indie games. Her community, the Mermaid Kingdom, is based in empathy, compassion, and chaotic goodness.",
-      "priority": 1,
+      "priority": 10,
       "twitch": "MermaidQueenJude",
       "twitter": "MerqueenJude",
       "instagram": "MermaidQueenJude",
@@ -270,7 +270,7 @@
       "twitch": "BirdofChess",
       "twitter": "BirdofChess",
       "instagram": "BirdofChess",
-      "image": "BirdSquare.png"
+      "image": "Rook.jpg"
     },
     {
       "name": "CREVLM",
@@ -364,10 +364,10 @@
     },
     {
       "name": "SPOFIE",
-      "title": "",
+      "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Spofie is a primarily FFXIV streamer who also streams variety a couple days a week. She loves the Fire Emblem series and atmospheric games especially! Her streams are intended to always be a comfy and inclusive place to hang out.",
-      "priority": 1,
+      "priority": 10,
       "twitch": "Spofie",
       "twitter": "spofiee",
       "image": "SpofieSquare.png"
@@ -408,10 +408,10 @@
     },
     {
       "name": "SIERRAXMYST",
-      "title": "",
+      "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Sierra Myst is the drag queen from space bringing you colourful personality and looks live on Twitch. With a focus on more relaxed Nintendo and variety games, Sierra gets into drag makeup live on Twitch before jumping into whatever game she is playing to provide a relaxing, welcoming environment.",
-      "priority": 1,
+      "priority": 10,
       "twitch": "SierraxMyst",
       "twitter": "SierraxMyst",
       "instagram": "SierraxMyst",
