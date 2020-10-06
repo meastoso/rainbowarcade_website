@@ -504,6 +504,16 @@
       "instagram": "itsnolay",
       "youtube": "ItsNolay",
       "image": "NolaySquare.png"
+    },
+    {
+      "name": "Ajent Vee",
+      "title": "",
+      "type": "Pokemon",
+      "description": "Vee is a lesbian streamer and artist who primarily plays Pokemon related games. A fan of achievements and hunting for the rarest Pokemon out there, she welcomes memes and good vibes into her community, making it a safe and inclusive space for all.",
+      "priority": 1,
+      "twitch": "AjentVee",
+      "twitter": "AjentVee",
+      "image": "ajentvee.png"
     }
   ]
 }
