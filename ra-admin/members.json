@@ -583,6 +583,18 @@
       "website": "https://www.cheratomo.com/",
       "image": "CheratomoSquare.png"
     },
+    {
+      "name": "CriticalBard",
+      "title": "",
+      "type": "Variety",
+      "description": "Omega Jones, also known as the Critical Bard, is a professional black queer singer & streamer based in STL. He is the creator of the #BLACKAF Roundtable & the jingle artist for Critical Role. With honey buns & love, he’s the personification of a hot mess & always makes treble wherever he goes.",
+      "priority": 1,
+      "twitch": "CriticalBard",
+      "twitter": "CriticalBard",
+      "youtube": "CriticalBard",
+      "website": "https://critbard.com/",
+      "image": "CriticalBardSquare.png"
+    },
     
     
   ]
