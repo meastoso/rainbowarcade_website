@@ -618,7 +618,17 @@
       "youtube": "MagicWhizzBangs",
       "image": "CtrlAltQuinSquare.jpg"
     },
-    
+    {
+      "name": "DataDave",
+      "title": "",
+      "type": "Variety",
+      "description": "DataDave is an RPG, and horror streamer that enjoys story-driven games. He's a voice actor and streams live webtoon readings weekly. You can catch him Day to Day with DataDave streaming games every day with his community, the Database, while they all laugh, enjoy and engage in a fun-filled stream.",
+      "priority": 1,
+      "twitch": "DataDave",
+      "twitter": "DataDaveTV",
+      "instagram": "DataDaveTV",
+      "image": "DataDave.jpg"
+    },
     
   ]
 }
