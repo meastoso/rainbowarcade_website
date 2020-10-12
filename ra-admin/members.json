@@ -595,6 +595,18 @@
       "website": "https://critbard.com/",
       "image": "CriticalBardSquare.png"
     },
+    {
+      "name": "CtrlAltQuin",
+      "title": "",
+      "type": "Variety",
+      "description": "Ctrlaltquin is a non-binary comedic variety broadcaster. They love role play games like World of Warcraft, The Forest, Red Dead Redemption and you can occasionally find them playing Overwatch, Fortnite. Off stream you can find them championing for social justice on social media. ",
+      "priority": 1,
+      "twitch": "CtrlAltQuin",
+      "twitter": "CtrlAltQuin",
+      "instagram": "CtrlAltQuin",
+      "youtube": "MagicWhizzBangs",
+      "image": "CtrlAltQuinSquare.jpg"
+    },
     
     
   ]
