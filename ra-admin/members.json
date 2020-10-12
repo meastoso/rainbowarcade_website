@@ -514,6 +514,18 @@
       "twitch": "AjentVee",
       "twitter": "AjentVee",
       "image": "ajentvee.png"
+    },
+        {
+      "name": "AmethystMillennia",
+      "title": "",
+      "type": "Variety",
+      "description": "Amethyst is a non-binary drag king from New York City. They love doing colorful, alternative looks and they&#39;re always eager to try something new. They stream a variety of games from Stardew Valley to Pokemon to tarot. Catch them every Tuesday, Thursday, and Sunday at 7pm EST!",
+      "priority": 1,
+      "twitch": "AmethystMillennia",
+      "twitter": "AmethystTheTwit",
+      "instagram": "AmethystMillennia",
+      "image": "AmethystMillenniaSquare.png"
     }
+    
   ]
 }
