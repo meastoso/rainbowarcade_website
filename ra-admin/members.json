@@ -525,7 +525,16 @@
       "twitter": "AmethystTheTwit",
       "instagram": "AmethystMillennia",
       "image": "AmethystMillenniaSquare.png"
-    }
+    },
+            {
+      "name": "AndrewArcade",
+      "title": "",
+      "type": "Variety",
+      "description": "Andrew Arcade is a gay variety streamer on Twitch. He has a focus on simulation games paired along with a love for competitive games and JRPGs. Some of his favorites include Dead by Daylight, Animal Crossing, and Persona. Stop on by and get a taste of all the unexpected shenanigans that go down!",
+      "priority": 1,
+      "twitch": "AndrewArcade",
+      "image": "AndrewArcadeSquare.png"
+    },
     
   ]
 }
