@@ -524,7 +524,7 @@
       "twitch": "AmethystMillennia",
       "twitter": "AmethystTheTwit",
       "instagram": "AmethystMillennia",
-      "image": "AmethystMillenniaSquare.png"
+      "image": "Copy of Webp.net-resizeimage (4).png"
     },
     {
       "name": "AndrewArcade",
@@ -533,7 +533,7 @@
       "description": "Andrew Arcade is a gay variety streamer on Twitch. He has a focus on simulation games paired along with a love for competitive games and JRPGs. Some of his favorites include Dead by Daylight, Animal Crossing, and Persona. Stop on by and get a taste of all the unexpected shenanigans that go down!",
       "priority": 1,
       "twitch": "AndrewArcade",
-      "image": "AndrewArcadeSquare.png"
+      "image": "Copy of ProfilePictureJpeg.jpg"
     },
     {
       "name": "AnneDorko",
@@ -546,7 +546,19 @@
       "instagram": "Anne.Dorko",
       "youtube": "anndorko",
       "website": "https://www.annedorko.com",
-      "image": "AnneDorkoSquare.png"
+      "image": "Copy of AnneDorko Headshot.jpg"
+    },
+    {
+      "name": "AQuarterGhost",
+      "title": "",
+      "type": "Variety",
+      "description": "Aquarterghost is a transgender guy that creates a safe space for LGBTQ+ individuals. They stream a variety of chill games such as The Sims 4, Animal Crossing, and Stardew Valley. Their goal is to raise awareness and amplify transgender voices by cultivating a space that speaks out on LGBTQ+ issues.",
+      "priority": 1,
+      "twitch": "AQuarterGhost",
+      "twitter": "AQuarterGhost",
+      "instagram": "AQuarterGhost",
+      "youtube": "AQuarterGhost",
+      "image": "Copy of AnneDorko Headshot.jpg"
     },
     
   ]
