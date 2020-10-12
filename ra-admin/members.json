@@ -504,6 +504,16 @@
       "instagram": "itsnolay",
       "youtube": "ItsNolay",
       "image": "NolaySquare.png"
+    },
+    {
+      "name": "GO_JG",
+      "title": "",
+      "type": "VARIETY + TTRPGs",
+      "description": "Jess is a queer Canadian streamer, showrunner and game designer. They stream video and tabletop games on their Twitch channel, love highlighting indie games, queer content, and encouraging a supportive community. She’ll play just about any game if you tell her there’s a queer cutie she can smooch.",
+      "priority": 1,
+      "twitch": "go_jg",
+      "twitter": "go_jg",
+      "image": "GOJGSquare.png"
     }
   ]
 }
