@@ -629,6 +629,31 @@
       "instagram": "DataDaveTV",
       "image": "DataDave.jpg"
     },
+    {
+      "name": "Dona Tarte",
+      "title": "",
+      "type": "Variety",
+      "description": "Dona Tarte is a drag artist and professional baker from Dublin, Ireland. On her channel you can expect gorgeous baked goods, drag transformations, as well as relaxed boy streams, variety gameplay and copious amounts of sarcasm. The cherry on the top is her fabulous and welcoming community.",
+      "priority": 1,
+      "twitch": "DonaTarte",
+      "twitter": "Dona_Tarte",
+      "instagram": "Dona_Tarte",
+      "website": "https://www.donatarte.com",
+      "image": "DonaTarte.png"
+    },
+    {
+      "name": "DrGRZLY",
+      "title": "",
+      "type": "Variety",
+      "description": "DrGRZLY is a variety streamer and queer mental health professional. He streams a variety of games, such as horror, indie titles, and viewer games. DrGRZLY also loves to talk about mental health, and regularly answers mental health questions!  Stop by his friendly community and join the Bear Brigade!",
+      "priority": 1,
+      "twitch": "DrGRZLY",
+      "twitter": "DrGRZLY",
+      "instagram": "DrGRZLY",
+      "youtube": "UClDk7f1XrN0YUJIgKgSLN3g",
+      "website": "https://www.drgrzly.tv/",
+      "image": "DRGrzly.png"
+    },
     
   ]
 }
