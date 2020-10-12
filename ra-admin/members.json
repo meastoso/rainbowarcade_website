@@ -515,7 +515,7 @@
       "twitter": "AjentVee",
       "image": "ajentvee.png"
     },
-        {
+    {
       "name": "AmethystMillennia",
       "title": "",
       "type": "Variety",
@@ -526,7 +526,7 @@
       "instagram": "AmethystMillennia",
       "image": "AmethystMillenniaSquare.png"
     },
-            {
+    {
       "name": "AndrewArcade",
       "title": "",
       "type": "Variety",
@@ -534,6 +534,19 @@
       "priority": 1,
       "twitch": "AndrewArcade",
       "image": "AndrewArcadeSquare.png"
+    },
+    {
+      "name": "AnneDorko",
+      "title": "",
+      "type": "Music",
+      "description": "Anne produces original music on Twitch. They are nonbinary, queer, and value vulnerability and silliness! This tunesmith advocates for mental health and human rights while combating anxiety with chaotic good. Join their journey live and listen to finished songs on Spotify!",
+      "priority": 1,
+      "twitch": "AnneDorko",
+      "twitter": "AnneDorko",
+      "instagram": "Anne.Dorko",
+      "youtube": "anndorko",
+      "website": "https://www.annedorko.com",
+      "image": "AnneDorkoSquare.png"
     },
     
   ]
