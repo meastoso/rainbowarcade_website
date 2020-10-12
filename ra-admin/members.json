@@ -558,8 +558,20 @@
       "twitter": "AQuarterGhost",
       "instagram": "AQuarterGhost",
       "youtube": "AQuarterGhost",
-      "image": "Copy of AnneDorko Headshot.jpg"
+      "image": "aquartersqare.jpg"
     },
+    {
+      "name": "BlindJustice90",
+      "title": "",
+      "type": "Variety, Dead By Daylight",
+      "description": "Blind Justice is a civil rights lawyer by day and chaotic Twitch streamer by night. Aiming to create a safe space to discuss important social and political issues on stream, there is still no shortage of screaming in Dead by Daylight, cackling laughter, or playing with wigs in drag on the weekend.",
+      "priority": 1,
+      "twitch": "blind_justice90",
+      "twitter": "blindjustice90",
+      "instagram": "esolson",
+      "image": "BlindJusticeSquare.jpg"
+    },
+    
     
   ]
 }
