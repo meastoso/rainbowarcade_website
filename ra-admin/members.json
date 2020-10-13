@@ -677,6 +677,63 @@
       "youtube": "UCNDtz1DcYL8ZGqFu350aYQQ",
       "image": "igeekedout.jpg"
     },
+    {
+      "name": "Jeff Brutlag",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Jeff is a gay, non-binary writer and variety streamer (pronouns are he/they), focusing on story driven games, horror games, Nintendo games, and discussions around LGBTQIA+ topics. He aims to make his space like a cozy, queer coffee shop full of Sailor Moon-esque trinkets and decorations.",
+      "priority": 1,
+      "twitch": "Jeffbrutlag",
+      "twitter": "Jeffbrutlag",
+      "instagram": "Jeffbrutlag",
+      "image": "jeffbrutlag.jpg"
+    },
+    {
+      "name": "Kaze_X",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Kaze (pronounced Kah-zay) is a gay streamer dedicated to creating a fun and welcoming space for everyone in the LGBTQIA+ family! His streams are known for their lengthy just chatting segments, but he also plays a wide variety of games. Expect lots of talk about Japan, beards, and French Bulldogs!",
+      "priority": 1,
+      "twitch": "Kaze_X",
+      "twitter": "Gaymerquest",
+      "instagram": "Gaymerquest",
+      "image": "kazex.JPG"
+    },
+    {
+      "name": "Kiki_Healz",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Kiki (He/They) is a big ol gay cuddly bear who follows his heart.  He is a variety streamer that loves survival, team-based, and social simulation games. Kiki prides himself on cultivating an inclusive community focusing on Mental Health and being a safe zone for all, more specifically the LGBTQIA+ community.",
+      "priority": 1,
+      "twitch": "Kiki_Healz",
+      "twitter": "HealzKiki",
+      "instagram": "Kiki_Healz",
+      "youtube": "UCmnVB3ggXvokk_iCRjjkKow",
+      "image": "igeekedout.jpg"
+    },
+    {
+      "name": "letsplaygaymes",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Jora is a black, bisexual, disabled gremlin and reformed Taurus from Chicago. A year ago, they fell into the kindest corner of twitch, became a variety streamer, and never looked back. With an acting background and a passion for social justice, streaming is the perfect outlet for her brand of chaos.",
+      "priority": 1,
+      "twitch": "LetsPlayGaymes",
+      "twitter": "letsplaygaymes",
+      "instagram": "gaymesta",
+      "image": "letsplaygaymes.PNG"
+    },
+    {
+      "name": "LouiseyHannah",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Hannah is a bisexual British variety streamer! She loves to play a range of RPGs for the first time, from Square Enix to Naughty Dog. Catch Hannah thirsting over video game characters, not realizing her face is making that many expressions, and all around having a great time with chat!",
+      "priority": 1,
+      "twitch": "louiseyhannah",
+      "twitter": "louiseyhannah",
+      "instagram": "louiseyhannah",
+      "youtube": "louiseyhannah",
+      "image": "louiseyhannah.png"
+    },
     
   ]
 }
