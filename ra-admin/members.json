@@ -824,6 +824,76 @@
       "twitter": "TheAnnieMayGirl",
       "image": "roodanniemays.png"
     },
+    {
+      "name": "SAMMIEMJAY",
+      "title": "",
+      "type": "DEAD BY DAYLIGHT",
+      "description": "Sammy is a gay streamer based in UK. He is a fog whisperer for Dead by Daylight and is mainly seen catching and sacrificing survivors with kindness. Sammy has focused on creating a fun, friendly and supportive place for all and help bring LGBTQIA+ representation into Dead By Daylight.",
+      "priority": 1,
+      "twitch": "Sammymjay",
+      "twitter": "sammy_m_jay",
+      "instagram": "sammy_m_jay",
+      "image": "sammymjay.jpg"
+    },
+    {
+      "name": "SHARKYAENNE",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Aenne is a non-binary pan streamer who focuses on anything with a good story, especially with romance! Not only do they stream games, but they make LGBTQIA+ games too(Most known is Arcade Spirits). They enjoy cultivating a space where everyone feels comfortable being thirsty and falling in love.",
+      "priority": 1,
+      "twitch": "sharkyaenne",
+      "twitter": "peachyaenne",
+      "instagram": "peachyaenne",
+      "image": "sharkyaenne.jpg"
+    },
+    {
+      "name": "SIMPLESAMMY",
+      "title": "",
+      "type": "DEAD BY DAYLIGHT",
+      "description": "Sammy is a queer broadcaster from Canada who plays horror games with an emphasis on Dead by Daylight. His goal is to raise awareness for fellow queer Arab folx and to create a cozy space to just act goofy and game. Come shine your rainbow light across the universe in this warm and fuzzy community!",
+      "priority": 1,
+      "twitch": "simplesammy",
+      "twitter": "simplesammy",
+      "instagram": "simple.sammy",
+      "image": "simplesammy.jpg"
+    },
+    {
+      "name": "SLYTQ",
+      "title": "",
+      "type": "VARIETY + ARTIST",
+      "description": "TQ is known for her community interaction and charity work; with a big love for Nintendo, story-driven adventure, and horror games. A storyteller at heart, her Potion Shop and Pastries are always there when you need a little magic. She will absolutely quit a game if you can’t pet the dog.",
+      "priority": 1,
+      "twitch": "SlyTQ",
+      "twitter": "SlyTQ",
+      "instagram": "TQDraws",
+      "youtube": "SlyTQ",
+      "website": "potionshop.ca",
+      "image": "slytq.png"
+    },
+    {
+      "name": "SPOOKYDRAWS",
+      "title": "",
+      "type": "ARTIST",
+      "description": "Spooky is a demi-bi tattoo apprentice, mental health advocate and tea lover. She specializes in drawing florals and skulls and conversing with her chat to some midwest emo jams in the background. Her community focuses on supporting and uplifting each other through art and life.",
+      "priority": 1,
+      "twitch": "Spookydraws",
+      "twitter": "spkydrws",
+      "instagram": "spkydrws",
+      "youtube": "UCTcYc-kltLNu8bj4Njt659g",
+      "website": "https://spookydraws.com/",
+      "image": "spookydraws.JPG"
+    },
+    {
+      "name": "SUPERCALIY",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Supercaliy is a 28 year old variety streamer from Boston who enjoys a wide range of games from wholesome, cozy games to thrilling, horror games. As a openly gay person and survivor of heart disease, it’s been his goal to use his platform to create a safe place for everyone.",
+      "priority": 1,
+      "twitch": "Supercaliy",
+      "twitter": "Supercaliy",
+      "instagram": "Supercaliy",
+      "image": "supercaliy.png"
+    },
     
     
   ]
