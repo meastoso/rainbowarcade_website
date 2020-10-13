@@ -508,7 +508,7 @@
     {
       "name": "Ajent Vee",
       "title": "",
-      "type": "Pokemon",
+      "type": "POKEMON",
       "description": "Vee is a lesbian streamer and artist who primarily plays Pokemon related games. A fan of achievements and hunting for the rarest Pokemon out there, she welcomes memes and good vibes into her community, making it a safe and inclusive space for all.",
       "priority": 1,
       "twitch": "AjentVee",
@@ -518,7 +518,7 @@
     {
       "name": "AlleeMac",
       "title": "",
-      "type": "Elder Scrolls Online",
+      "type": "ESO",
       "description": "Allee is described as a ball of pure chaotic rainbow energy who is unapologetically herself. Her primary stream game is Elder Scrolls Online, but she also loves diving into any memeable game she can get her hands on. Her community can be summed up in three words: pizza, crab raves, and chaos.",
       "priority": 1,
       "twitch": "AlleeMac",
@@ -529,7 +529,7 @@
     {
       "name": "AmethystMillennia",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Amethyst is a non-binary drag king from New York City. They love doing colorful, alternative looks and they&#39;re always eager to try something new. They stream a variety of games from Stardew Valley to Pokemon to tarot. Catch them every Tuesday, Thursday, and Sunday at 7pm EST!",
       "priority": 1,
       "twitch": "AmethystMillennia",
@@ -540,7 +540,7 @@
     {
       "name": "AndrewArcade",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Andrew Arcade is a gay variety streamer on Twitch. He has a focus on simulation games paired along with a love for competitive games and JRPGs. Some of his favorites include Dead by Daylight, Animal Crossing, and Persona. Stop on by and get a taste of all the unexpected shenanigans that go down!",
       "priority": 1,
       "twitch": "AndrewArcade",
@@ -549,7 +549,7 @@
     {
       "name": "AnneDorko",
       "title": "",
-      "type": "Music",
+      "type": "MUSIC",
       "description": "Anne produces original music on Twitch. They are nonbinary, queer, and value vulnerability and silliness! This tunesmith advocates for mental health and human rights while combating anxiety with chaotic good. Join their journey live and listen to finished songs on Spotify!",
       "priority": 1,
       "twitch": "AnneDorko",
@@ -562,7 +562,7 @@
     {
       "name": "AQuarterGhost",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Aquarterghost is a transgender guy that creates a safe space for LGBTQ+ individuals. They stream a variety of chill games such as The Sims 4, Animal Crossing, and Stardew Valley. Their goal is to raise awareness and amplify transgender voices by cultivating a space that speaks out on LGBTQ+ issues.",
       "priority": 1,
       "twitch": "AQuarterGhost",
@@ -574,7 +574,7 @@
     {
       "name": "BlindJustice90",
       "title": "",
-      "type": "Variety, Dead By Daylight",
+      "type": "VARIETY + DEAD BY DAYLIGHT",
       "description": "Blind Justice is a civil rights lawyer by day and chaotic Twitch streamer by night. Aiming to create a safe space to discuss important social and political issues on stream, there is still no shortage of screaming in Dead by Daylight, cackling laughter, or playing with wigs in drag on the weekend.",
       "priority": 1,
       "twitch": "blind_justice90",
@@ -585,7 +585,7 @@
     {
       "name": "Cheratomo",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Cara is a demipan, chronically ill variety streamer, writer, and narrative designer. The games she plays feature either coziness, a good story, or lots of lore. She shapes her streams like a cup of coffee - warm, comforting, and inclusive, with honesty and a kick of wit. So stop on by~",
       "priority": 1,
       "twitch": "cheratomo",
@@ -597,7 +597,7 @@
     {
       "name": "CriticalBard",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Omega Jones, also known as the Critical Bard, is a professional black queer singer & streamer based in STL. He is the creator of the #BLACKAF Roundtable & the jingle artist for Critical Role. With honey buns & love, he’s the personification of a hot mess & always makes treble wherever he goes.",
       "priority": 1,
       "twitch": "CriticalBard",
@@ -609,7 +609,7 @@
     {
       "name": "CtrlAltQuin",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Ctrlaltquin is a non-binary comedic variety broadcaster. They love role play games like World of Warcraft, The Forest, Red Dead Redemption and you can occasionally find them playing Overwatch, Fortnite. Off stream you can find them championing for social justice on social media. ",
       "priority": 1,
       "twitch": "CtrlAltQuin",
@@ -621,7 +621,7 @@
     {
       "name": "DataDave",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "DataDave is an RPG, and horror streamer that enjoys story-driven games. He's a voice actor and streams live webtoon readings weekly. You can catch him Day to Day with DataDave streaming games every day with his community, the Database, while they all laugh, enjoy and engage in a fun-filled stream.",
       "priority": 1,
       "twitch": "DataDave",
@@ -632,7 +632,7 @@
     {
       "name": "Dona Tarte",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "Dona Tarte is a drag artist and professional baker from Dublin, Ireland. On her channel you can expect gorgeous baked goods, drag transformations, as well as relaxed boy streams, variety gameplay and copious amounts of sarcasm. The cherry on the top is her fabulous and welcoming community.",
       "priority": 1,
       "twitch": "DonaTarte",
@@ -644,7 +644,7 @@
     {
       "name": "DrGRZLY",
       "title": "",
-      "type": "Variety",
+      "type": "VARIETY",
       "description": "DrGRZLY is a variety streamer and queer mental health professional. He streams a variety of games, such as horror, indie titles, and viewer games. DrGRZLY also loves to talk about mental health, and regularly answers mental health questions!  Stop by his friendly community and join the Bear Brigade!",
       "priority": 1,
       "twitch": "DrGRZLY",
@@ -653,6 +653,29 @@
       "youtube": "UClDk7f1XrN0YUJIgKgSLN3g",
       "website": "https://www.drgrzly.tv/",
       "image": "DRGrzly.png"
+    },
+    {
+      "name": "heyoliam",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Liam is a British gay variety streamer who loves discovering new horror games that will keep him on his toes. He enjoys playing Dead by Daylight, Overwatch, switch games and many others. Feel free to stop by and chat in his inclusive, welcoming and often lewd community! Be prepared, Liam screams.",
+      "priority": 1,
+      "twitch": "heyoliam",
+      "twitter": "heyoliam_",
+      "instagram": "heyoliam_",
+      "image": "heyoliam.jpg"
+    },
+    {
+      "name": "iGeekedOut",
+      "title": "",
+      "type": "VARIETY + ARTIST",
+      "description": "iGeekedout (Edwin) is a Queer Latinx content creator and artist. He is a community based, chat focused streamer who loves denim jackets and beanies. He enjoys playing both story-driven and multi-player games. His community, also known as the Beanie Bunch, is the perfect balance and chill and chaos.",
+      "priority": 1,
+      "twitch": "iGeekedOut",
+      "twitter": "iGeekedOut",
+      "instagram": "iGeekedOut",
+      "youtube": "UCNDtz1DcYL8ZGqFu350aYQQ",
+      "image": "igeekedout.jpg"
     },
     
   ]
