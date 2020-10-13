@@ -734,6 +734,51 @@
       "youtube": "louiseyhannah",
       "image": "louiseyhannah.png"
     },
+    {
+      "name": "MadameGandalf",
+      "title": "",
+      "type": "VARIETY",
+      "description": "MadameGandalf is a Wizard of Variety and a vibrant, Bi, Tavern owner. You can often find her singing, cooking, adventuring and roleplaying for the weary heroes that come across her Green Dragon Tavern; a warm welcome for Orc, Halfling, Elf and Tiefling alike, all misfits are at home around her hearth!",
+      "priority": 1,
+      "twitch": "MadameGandalf",
+      "twitter": "MadameGandalf",
+      "instagram": "MadameGandalf",
+      "youtube": "MadameGandalf",
+      "image": "madamgandalf.jpg"
+    },
+    {
+      "name": "Mike Cheb",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Mike builds his streams around interactions with his warm, welcoming community. He loves cozy games like Animal Crossing, but isn't afraid to get his hands dirty learning to bake, make a fool of himself drawing horrid speed art, or scream his way through a horror game.",
+      "priority": 1,
+      "twitch": "MikeCheb",
+      "twitter": "MikeCheb",
+      "instagram": "MikeCheb",
+      "image": "mikecheb.jpg"
+    },
+    {
+      "name": "NicholasVanj",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Nicholasvanj is a Zimbabwean-born streamer living in South Africa. Nick has a passion for community and believes that gaming is an amazing platform on which to bring people together. He is a variety streamer with a quirky sense of humour, and prides himself on a truly inclusive community experience.",
+      "priority": 1,
+      "twitch": "NicholasVanj",
+      "twitter": "NicholasVanj",
+      "instagram": "NicholasVanj",
+      "image": "nicholasvanj.jpg"
+    },
+    {
+      "name": "OpheliaUp",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Serving you glamor, scares, and laughs, OpheliaUp is a drag artist and queer content creator! She showcases a broad variety of games, from survival horror to MMOs to battle royales, while fostering a tight-knit community based on inclusivity, authenticity, and positivity!",
+      "priority": 1,
+      "twitch": "OpheliaUp",
+      "twitter": "OpheliaUp",
+      "instagram": "MissOpheliaUp",
+      "image": "opheliaup.JPG"
+    },
     
   ]
 }
