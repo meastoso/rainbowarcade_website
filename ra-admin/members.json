@@ -894,6 +894,63 @@
       "instagram": "Supercaliy",
       "image": "supercaliy.png"
     },
+    {
+      "name": "THE_MERMAE",
+      "title": "",
+      "type": "VARIETY",
+      "description": "'the_MerMae' is a Métis Artist, Cosplayer, and Streamer with a focus on inclusive content and community engagement. A proud dog rescuer, taco eater, and lover of scotch, Mae loves creating content on Twitch with a specialty in narrative-driven games and traditional art & cosplay builds.",
+      "priority": 1,
+      "twitch": "the_MerMae",
+      "twitter": "the_MerMae",
+      "instagram": "the_MerMae",
+      "image": "themermae.jpg"
+    },
+    {
+      "name": "TIFFANYWITCHER",
+      "title": "",
+      "type": "CHARITY",
+      "description": "Tiffany Witcher is a charity streamer that has raised over $10,000 for different causes from the Lupus Foundation to Trans Lifeline. She enjoys playing horror games from Dead by Daylight to Resident Evil. On top of streamer she's also a voice actor for indie games!",
+      "priority": 1,
+      "twitch": "TiffanyWitcher",
+      "twitter": "_TiffanyWitcher",
+      "instagram": "_TiffanyWitcher",
+      "website": "TiffanyWitcher.com",
+      "image": "tiffanywitcher.jpg"
+    },
+    {
+      "name": "TOPESTV",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Topaz is a proud Black Woman and out Lesbian. She is a variety streamer from the Bay Area who loves Apex, and also plays RPGs, Indie Games, and Sports games. She has a quirky personality, a big smile, and a  big heart. She welcomes everyone with open arms.",
+      "priority": 1,
+      "twitch": "topestv",
+      "twitter": "_topes",
+      "instagram": "_topes",
+      "youtube": "UCV5PxSaQAV_c3Ng9gJb1_sg",
+      "image": "topestv.JPG"
+    },
+    {
+      "name": "VENUSWITCHERY",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Venus Witchery is an illustrator, witch, and plant mama who streams a variety of RPGS, indie games, and her art! Her Moon Coven is built on empathy, respect, and good vibes. Her streams are just an all around comfy cozy place to vibe out to some lofi and chill!",
+      "priority": 1,
+      "twitch": "VenusWitchery",
+      "twitter": "VenusWitchery",
+      "instagram": "VenusWitchery",
+      "image": "venuswitchery.png"
+    },
+    {
+      "name": "WXNNIE",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Wxnnie is an incredibly comfy Queer Vietnamese Gray-Ace variety streamer. On their Twitch channel, you’ll find them talking about neurodiversity, making silly puns, and providing a warm place to get cozy while playing Indie games. They welcome you to the Wxnner’s Cafe!",
+      "priority": 1,
+      "twitch": "Wxnnie",
+      "twitter": "_Wxnnie",
+      "instagram": "Wxnnie_",
+      "image": "wxnnie.png"
+    },
     
     
   ]
