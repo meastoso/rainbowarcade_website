@@ -503,6 +503,16 @@
       "twitch": "go_jg",
       "twitter": "go_jg",
       "image": "GOJGSquare.png"
+    },
+    {
+      "name": "Saffista",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Saffista is a variety streamer who is passionate about representation and visibility. Her goal is to build a welcoming and inclusive space that everyone can call home. She loves coffee, RPGs, Indies, crafting, and playing shooters poorly. Y’all come say hey and hang out for a while.",
+      "priority": 1,
+      "twitch": "saffista",
+      "twitter": "NYMG_saffista",
+      "image": "SaffistaSquare.png"
     }
   ]
 }
