@@ -373,17 +373,6 @@
       "image": "SpofieSquare.png"
     },
     {
-      "name": "PAIJEMONSTRE",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Paije Monstre and her Kaiju Army are always striving to create a warm and welcoming community! The KA may sometimes be loud, silly, crude and lewd, but they are never afraid to talk about matters that matter! Bring yourself as you are, embrace creativity, and lift up others to do the same!",
-      "priority": 1,
-      "twitch": "PaijeMonstre",
-      "twitter": "PaijeMonstre",
-      "instagram": "PaijeMonstre",
-      "image": "PaijeSquare.jpg"
-    },
-    {
       "name": "DUBUSAEYO",
       "title": "",
       "type": "VARIETY",
@@ -514,6 +503,16 @@
       "twitch": "go_jg",
       "twitter": "go_jg",
       "image": "GOJGSquare.png"
+    },
+    {
+      "name": "Saffista",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Saffista is a variety streamer who is passionate about representation and visibility. Her goal is to build a welcoming and inclusive space that everyone can call home. She loves coffee, RPGs, Indies, crafting, and playing shooters poorly. Y’all come say hey and hang out for a while.",
+      "priority": 1,
+      "twitch": "saffista",
+      "twitter": "NYMG_saffista",
+      "image": "SaffistaSquare.png"
     }
   ]
 }
