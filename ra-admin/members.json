@@ -151,13 +151,13 @@
     {
       "name": "KYNETIQ",
       "title": "",
-      "type": "VARIETY",
-      "description": "Kynetiq is a gay variety-caster based in Seattle. His Twitch channel focuses mainly on RPG titles. The mission of the channel is to foster a community where people can come together to discover the important lessons in the games we play. Come on by if you want a chill place to connect with others!",
+      "type": "DEAD BY DAYLIGHT",
+      "description": "Kynetiq is a Dead by Daylight and Variety caster based in Seattle. Engineer by day, streamer by night, he loves to bring people together to share in light-hearted love and appreciation for one another. If you enjoy discussions regarding LGBTQIA+ topics and general witty banter, then please stop by!",
       "priority": 1,
       "twitch": "Kynetiq",
       "twitter": "Kynetiq",
       "instagram": "Kynetiq",
-      "image": "KynetiqSquare.jpg"
+      "image": "kynetiq.jpg"
     },
     {
       "name": "CHILIFARMER",
