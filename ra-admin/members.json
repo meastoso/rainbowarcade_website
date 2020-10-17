@@ -706,7 +706,7 @@
       "twitter": "HealzKiki",
       "instagram": "Kiki_Healz",
       "youtube": "UCmnVB3ggXvokk_iCRjjkKow",
-      "image": "igeekedout.jpg"
+      "image": "KikihealzSquare.png"
     },
     {
       "name": "LETSPLAYGAYMES",
@@ -947,6 +947,16 @@
       "twitter": "_Wxnnie",
       "instagram": "Wxnnie_",
       "image": "wxnnie.png"
+    },
+    {
+      "name": "Jayyycubbb",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Jacob is a queer content creator who creates an inclusive and warm space for marginalized communities. When they&#39;re not busy getting looped by a survivor in Dead By Daylight, they enjoy screaming at other competitive and party games. Come join their community for discussions on food, games and life!",
+      "priority": 1,
+      "twitch": "jayyycubbb",
+      "twitter": "Jayyycubbb",
+      "image": "JayyycubbbSquare.png"
     }
   ]
 }
