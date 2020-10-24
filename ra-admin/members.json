@@ -958,6 +958,17 @@
       "twitch": "jayyycubbb",
       "twitter": "Jayyycubbb",
       "image": "JayyycubbbSquare.png"
+    },
+    {
+      "name": "HEALMEHARRY",
+      "title": "",
+      "type": "VARIETY + FFXIV",
+      "description": "Harry is a non-binary/gender fluid Final Fantasy XIV and variety streamer from Australia. Harry's stream and community are all about relaxing, playing games and having a good chat. A lover of tea, vegan treats, animals and the queer community.",
+      "priority": 1,
+      "twitch": "HealmeHarry",
+      "twitter": "healme_harry",
+      "instagram": "healme_harry",
+      "image": "healmeharry.png"
     }
   ]
 }
