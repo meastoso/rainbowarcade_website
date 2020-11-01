@@ -944,7 +944,7 @@
       "type": "VARIETY",
       "description": "Wxnnie is an incredibly comfy Queer Vietnamese Gray-Ace variety streamer. On their Twitch channel, you’ll find them talking about neurodiversity, making silly puns, and providing a warm place to get cozy while playing Indie games. They welcome you to the Wxnner’s Cafe!",
       "priority": 1,
-      "twitch": "Wxnnie",
+      "twitch": "Wxnnie_",
       "twitter": "_Wxnnie",
       "instagram": "Wxnnie_",
       "image": "wxnnie.png"
@@ -969,6 +969,17 @@
       "twitter": "healme_harry",
       "instagram": "healme_harry",
       "image": "healmeharry.png"
+    },
+    {
+      "name": "DELPHRON",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Originally from Ireland, Delphron a gay and proud content creator now living in America with his husband creates content to connect and learn with those in his community. Creativity, learning together, and queer focused conversations are a lot of what you can expect from his community.",
+      "priority": 1,
+      "twitch": "Delphron",
+      "twitter": "Delphron",
+      "youtube": "Delphron",
+      "image": "delphron.jpg"
     }
   ]
 }
