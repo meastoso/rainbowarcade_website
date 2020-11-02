@@ -48,6 +48,13 @@
       "priority": 5,
       "project-url": "https://www.youtube.com/watch?v=-SBKZq6zkaM",
       "image": "disability-pride-month.png"
+    },
+    {
+      "title": "Hispanic Heritage Month 2020",
+      "type": "video",
+      "priority": 5,
+      "project-url": "https://www.youtube.com/watch?v=x3QXdn9qp2Y",
+      "image": "hispanic-heritage-month.png"
     }
   ]
 }
