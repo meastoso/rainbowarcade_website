@@ -53,3 +53,114 @@
 .ra-website {
     background: #A7A4E0 !important;
 }
+
+.img-ra-x {
+    width: 100px;
+}
+
+.summit-title {
+    font-weight: 700;
+    color: white;
+    font-size: 7em;
+    margin-top: 10px;
+}
+
+.title-description {
+    font-size: 2em;
+}
+
+.twitch-address {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.splitter {
+    color: white;
+}
+
+.schedule-title {
+    color: white;
+}
+
+.schedule-button-container {
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.schedule-button-container .day {
+    font-size: 3.4em;
+    font-weight: 900;
+}
+
+.schedule-button-container .date {
+    font-size: 4.5em;
+    font-weight: 100;
+    margin-top: 20px;
+}
+
+.schedule-button-container.selected {
+    background-color: white;
+    color: #2F2864;
+}
+
+.summit-container {
+    color: white;
+}
+
+.time-wrapper {
+    display: flex;
+}
+
+.time-number {
+    font-size: 3em;
+    font-weight: 600;
+}
+
+.time-zone {
+    font-size: 2em;
+    font-weight: 100;
+    margin-top: 5px;
+}
+
+.panel-title {
+    font-size: 2em;
+}
+
+.portraits {
+    display: flex;
+}
+
+.portrait-container {
+
+}
+
+.portrait-container img {
+    border-radius: 50%;
+    height: 100px;
+}
+
+.portrait-container .name {
+    display: block;
+}
+
+.schedule-row {
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.external_placeholder {
+    background-color: black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.external_placeholder i {
+    font-size: 5em;
+    margin-top: 10px;
+}

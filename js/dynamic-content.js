@@ -4,7 +4,24 @@ Members and projects are dynamically generated from javascript here
 $( document ).ready(function() {
     initializeMembers();
     initializeProjects();
+    initializeSummitButtons();
 });
+
+function initializeSummitButtons() {
+    $("#tuesday").hide();
+    $("#button_monday").click(function() {
+        $("#tuesday").hide();
+        $("#monday").fadeIn();
+        $(this).addClass("selected");
+        $("#button_tuesday").removeClass("selected");
+    });
+    $("#button_tuesday").click(function() {
+        $("#monday").hide();
+        $("#tuesday").fadeIn();
+        $(this).addClass("selected");
+        $("#button_monday").removeClass("selected");
+    });
+}
 
 function initializeMembers() {
     $.getJSON("/ra-admin/members.json", function(response) {

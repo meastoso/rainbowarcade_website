@@ -31,7 +31,7 @@
     {
       "title": "Lesbian Visibility Day",
       "type": "video",
-      "priority": 5,
+      "priority": 4,
       "project-url": "https://www.youtube.com/watch?v=Ah0VOVUodos&feature=youtu.be",
       "image": "lesbian-day.png"
     },
@@ -69,6 +69,13 @@
       "priority": 5,
       "project-url": "https://www.youtube.com/watch?v=98hDeKCBzo0",
       "image": "trans-lifeline-front-page.png"
+    },
+    {
+      "title": "Queer Black Excellence Summit",
+      "type": "Event",
+      "priority": 6,
+      "project-url": "/summit.html",
+      "image": "black_excellence.png"
     }
   ]
 }
