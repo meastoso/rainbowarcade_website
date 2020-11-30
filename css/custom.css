@@ -165,3 +165,8 @@
     font-size: 5em;
     margin-top: 10px;
 }
+
+.charity-image {
+    max-height: 80px;
+    max-width: 80px;
+}
