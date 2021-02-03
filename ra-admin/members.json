@@ -22,6 +22,7 @@
       "twitch": "justin_nick",
       "twitter": "Justin_Moore",
       "instagram": "JustinickPGH",
+      "youtube": "https://www.youtube.com/channel/UCeOPfAvAwOjf4xBXot4lgTg",
       "image": "JustinSquare.png"
     },
     {
@@ -33,7 +34,7 @@
       "twitch": "J0hnJ0hnn",
       "twitter": "J0hn_J0hnn",
       "instagram": "J0hnJ0hnn",
-      "image": "JJSquare.png"
+      "image": "JJRA.png"
     },
     {
       "name": "ITSDACODA",
@@ -234,8 +235,9 @@
       "description": "PleasantlyTwstd is a black ace content creator focused on challenge runs, tryhard games, and RPGs. She makes content to promote a safe space for ALL marginalized peoples, with debauchery, tea, and wine, while raising money for charities such as Trevor Project, St. Jude, TWLOHA, and many more!",
       "priority": 1,
       "twitch": "PleasantlyTwstd",
-      "twitter": "MsTwstd",
-      "instagram": "MsVanessa_b",
+      "twitter": "PleasantlyTwsd",
+      "instagram": "PleasantlyTwsd",
+      "youtube": "https://www.youtube.com/c/PleasantlyTwstd",
       "image": "PleasantlySquare.png"
     },
     {
@@ -652,14 +654,14 @@
       "image": "DRGrzly.png"
     },
     {
-      "name": "HEYOLIAM",
+      "name": "LEEM",
       "title": "",
       "type": "VARIETY",
       "description": "Liam is a British gay variety streamer who loves discovering new horror games that will keep him on his toes. He enjoys playing Dead by Daylight, Overwatch, switch games and many others. Feel free to stop by and chat in his inclusive, welcoming and often lewd community! Be prepared, Liam screams.",
       "priority": 1,
-      "twitch": "heyoliam",
-      "twitter": "heyoliam_",
-      "instagram": "heyoliam_",
+      "twitch": "Leem",
+      "twitter": "LeemTwitch",
+      "instagram": "LeemTwitch",
       "image": "heyoliam.jpg"
     },
     {
