@@ -4,7 +4,25 @@ Members and projects are dynamically generated from javascript here
 $( document ).ready(function() {
     initializeMembers();
     initializeProjects();
+    initializeCharities();
+    initializeSummitButtons();
 });
+
+function initializeSummitButtons() {
+    $("#tuesday").hide();
+    $("#button_monday").click(function() {
+        $("#tuesday").hide();
+        $("#monday").fadeIn();
+        $(this).addClass("selected");
+        $("#button_tuesday").removeClass("selected");
+    });
+    $("#button_tuesday").click(function() {
+        $("#monday").hide();
+        $("#tuesday").fadeIn();
+        $(this).addClass("selected");
+        $("#button_monday").removeClass("selected");
+    });
+}
 
 function initializeMembers() {
     $.getJSON("/ra-admin/members.json", function(response) {
@@ -55,6 +73,27 @@ function initializeProjects() {
     });
 }
 
+function initializeCharities() {
+    $.getJSON("/ra-admin/charities.json", function(response) {
+        const charitiesArr = response["charities"];
+        // sort by priority
+        const sortedCharities = sortItems(charitiesArr);
+        const carousel = $('<div id="charitiesCarousel" class="owl-carousel owl-theme stage-margin"></div>');
+        sortedCharities.forEach(project => {
+            carousel.append(getCharityHTML(project));
+        });
+        $("#charityCarouselWrapper").append(carousel);
+        $("#charitiesCarousel").owlCarousel({
+            items: 3,
+            margin: 10,
+            loop: false,
+            nav: true,
+            dots: true,
+            stagePadding: 40
+        });
+    });
+}
+
 function getProjectHTML(projectObj) {
     var projectType = projectObj["type"] && projectObj["type"].toUpperCase();
     return '<div>' +
@@ -74,6 +113,20 @@ function getProjectHTML(projectObj) {
         '</span>' +
         '</a>' +
         '</div>' +
+        '</div>'
+}
+
+function getCharityHTML(charityObj) {
+    return '<div class="recent-posts">' +
+        '<article class="post">' +
+        '<div class="ra-post-img">' +
+        '<img src="/ra-admin/charities-assets/' + charityObj["image"] + '" class="img-fluid border-radius-0 charity-image" alt="">' +
+        '</div>' +
+        '<h4>' + charityObj["title"] + '</h4>' +
+        '<div class="fundraiser-amount"><div class="amount">' + charityObj["amount-string"] + '</div></div>' +
+        '<p class="mb-0">' + charityObj["description"] +
+        '<a href="' + charityObj["read-more-link"] + '" target="_blank" class="read-more font-weight-bold text-2">&nbsp;read more <i class="fas fa-chevron-right text-1 ml-1"></i></a></p>' +
+        '</article>' +
         '</div>'
 }
 

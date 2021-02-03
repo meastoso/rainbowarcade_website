@@ -812,13 +812,13 @@
       "image": "projectruby.jpg"
     },
     {
-      "name": "ROODANNIEMAYS",
+      "name": "ANNIEMAYPLAY",
       "title": "",
       "type": "VARIETY",
       "description": "Tiny transfeminine from the great big country of Canada! Annie is a variety streamer who worries more about cozy vibes, lewd jokes, puns, and ridiculous wordplay than being... well, good at the games she's playing. Always trying to make her audience laugh and feel welcome.",
       "priority": 1,
-      "twitch": "RoodAnnieMays",
-      "twitter": "TheAnnieMayGirl",
+      "twitch": "AnnieMayPlay",
+      "twitter": "AnnieMayPlay",
       "image": "roodanniemays.png"
     },
     {
@@ -855,15 +855,15 @@
       "image": "simplesammy.jpg"
     },
     {
-      "name": "SLYTQ",
+      "name": "TQ",
       "title": "",
       "type": "VARIETY + ARTIST",
       "description": "TQ is known for her community interaction and charity work; with a big love for Nintendo, story-driven adventure, and horror games. A storyteller at heart, her Potion Shop and Pastries are always there when you need a little magic. She will absolutely quit a game if you can’t pet the dog.",
       "priority": 1,
-      "twitch": "SlyTQ",
-      "twitter": "SlyTQ",
+      "twitch": "WitchyTQ",
+      "twitter": "WitchyTQ",
       "instagram": "TQDraws",
-      "youtube": "SlyTQ",
+      "youtube": "WitchyTQ",
       "website": "http://potionshop.ca",
       "image": "slytq.png"
     },
@@ -913,29 +913,30 @@
       "twitter": "_TiffanyWitcher",
       "instagram": "_TiffanyWitcher",
       "website": "https://TiffanyWitcher.com",
-      "image": "tiffanywitcher.jpg"
+      "image": "TiffanyWitcher.jpg"
     },
     {
-      "name": "TOPESTV",
+      "name": "TOPAZ",
       "title": "",
       "type": "VARIETY",
       "description": "Topaz is a proud Black Woman and out Lesbian. She is a variety streamer from the Bay Area who loves Apex, and also plays RPGs, Indie Games, and Sports games. She has a quirky personality, a big smile, and a  big heart. She welcomes everyone with open arms.",
       "priority": 1,
-      "twitch": "topestv",
-      "twitter": "_topes",
-      "instagram": "_topes",
+      "twitch": "TopazTvee",
+      "twitter": "topaztvee",
+      "instagram": "topaztvee",
       "youtube": "UCV5PxSaQAV_c3Ng9gJb1_sg",
       "image": "topestv.JPG"
     },
     {
-      "name": "VENUSWITCHERY",
+      "name": "TRINITY",
       "title": "",
       "type": "VARIETY",
-      "description": "Venus Witchery is an illustrator, witch, and plant mama who streams a variety of RPGS, indie games, and her art! Her Moon Coven is built on empathy, respect, and good vibes. Her streams are just an all around comfy cozy place to vibe out to some lofi and chill!",
+      "description": "Trinity is an illustrator, witch, and plant mama who streams a variety of RPGS, indie games, and her art! Her Moon Coven is built on empathy, respect, and good vibes. Her streams are just an all around comfy cozy place to vibe out to some lofi and chill!",
       "priority": 1,
-      "twitch": "VenusWitchery",
-      "twitter": "VenusWitchery",
-      "instagram": "VenusWitchery",
+      "twitch": "TrinityDanae",
+      "twitter": "_trinitydanae",
+      "youtube": "https://youtube.com/channel/UCfSzjdkX5rc_j9UDhWUuDdw",
+      "website": "https://www.danaebydesign.com",
       "image": "venuswitchery.png"
     },
     {
@@ -960,14 +961,14 @@
       "image": "JayyycubbbSquare.png"
     },
     {
-      "name": "HEALMEHARRY",
+      "name": "HUPO",
       "title": "",
       "type": "VARIETY + FFXIV",
-      "description": "Harry is a non-binary/gender fluid Final Fantasy XIV and variety streamer from Australia. Harry's stream and community are all about relaxing, playing games and having a good chat. A lover of tea, vegan treats, animals and the queer community.",
+      "description": "hupo, formerly HealmeHarry, is a gender fluid FFXIV and Genshin Impact streamer from Australia. On their stream they cover everything from casual to hardcore content, but the comfy vibes are always present kupo!",
       "priority": 1,
-      "twitch": "HealmeHarry",
-      "twitter": "healme_harry",
-      "instagram": "healme_harry",
+      "twitch": "hupo",
+      "twitter": "hupotweets",
+      "instagram": "hupogram",
       "image": "healmeharry.png"
     },
     {

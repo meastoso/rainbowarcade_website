@@ -1,0 +1,28 @@
+{
+  "charities": [
+    {
+      "title": "World Wildlife Fund  - Australia",
+      "image": "wwf_logo.png",
+      "amount-string": "A$21,096.99",
+      "description": "In light of the massive fires which devastated Australia in 2019 and early 2020, the Rainbow Arcade team raised money for WWF-Australia. WWF-Australia is a vital player in helping rehabilitate animals and ecosystems affected by these fires.",
+      "read-more-link": "https://twitter.com/Rnbw_Arcade/status/1221821405022560256",
+      "priority": 1
+    },
+    {
+      "title": "The Trevor Project",
+      "image": "trevor_logo.jpg",
+      "amount-string": "$59,0707.17 USD",
+      "description": "We started with a goal of $20,000...now, the final number: over $59,000 for the Trevor Project during Pride Month! We can't thank you enough for supporting this life-saving organization, and we are so proud of the entire Rainbow Arcade team and their communities!",
+      "read-more-link": "https://twitter.com/Rnbw_Arcade/status/1279788373666697219?s=20",
+      "priority": 2
+    },
+    {
+      "title": "Trans Lifeline",
+      "image": "tll-blob.jpg",
+      "amount-string": "$66,231.85 USD",
+      "description": "We spent the entire month of October raising money for TransLifeline! Our initial goal was $20k...Final amount raised: $66,231! We are stunned & in tears. We can't thank you all enough for the support you've shown this absolutely amazing organization & their important work.",
+      "read-more-link": "https://twitter.com/Rnbw_Arcade/status/1323034548788170752?s=20",
+      "priority": 3
+    }
+  ]
+}
