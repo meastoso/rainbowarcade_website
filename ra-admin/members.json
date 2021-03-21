@@ -213,7 +213,7 @@
       "priority": 1,
       "twitch": "NicoMalaon",
       "twitter": "NicoMalaon",
-      "instagram": "Nihk.Nohk",
+      "instagram": "nicomalaon",
       "image": "NicoleSquare.png"
     },
     {
@@ -241,15 +241,15 @@
       "image": "PleasantlySquare.png"
     },
     {
-      "name": "MERMAIDQUEENJUDE",
+      "name": "MERMAIDROYAL",
       "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Jude is a content creator, sailor guardian, and cat mom. She is a bisexual nonbinary femme (she/her & they/them) who plays mainly storybased and indie games. Her community, the Mermaid Kingdom, is based in empathy, compassion, and chaotic goodness.",
       "priority": 10,
-      "twitch": "MermaidQueenJude",
-      "twitter": "MerqueenJude",
+      "twitch": "mermaidroyal",
+      "twitter": "mermaidroyal",
       "instagram": "MermaidQueenJude",
-      "website": "http://www.mermaidqueenjude.com/",
+      "website": "http://www.mermaidroyal.com/",
       "image": "MermaidSquare.png"
     },
     {
@@ -843,6 +843,7 @@
       "twitch": "sharkyaenne",
       "twitter": "peachyaenne",
       "instagram": "peachyaenne",
+      "youtube": "PeachyAenne",
       "image": "sharkyaenne.jpg"
     },
     {
@@ -860,14 +861,14 @@
       "name": "TQ",
       "title": "",
       "type": "VARIETY + ARTIST",
-      "description": "TQ is known for her community interaction and charity work; with a big love for Nintendo, story-driven adventure, and horror games. A storyteller at heart, her Potion Shop and Pastries are always there when you need a little magic. She will absolutely quit a game if you can’t pet the dog.",
+      "description": "TQ is a 'soft & tender' creator known for her community interaction, soft voice, and charity work; with a big love for Nintendo, and Stardew Valley. Working against mental health stigmas, her Potion Shop and Pastries are always there when you need a little magic. Her dream is to one day open a foster/rescue farm and stream it.",
       "priority": 1,
       "twitch": "WitchyTQ",
       "twitter": "WitchyTQ",
       "instagram": "TQDraws",
       "youtube": "WitchyTQ",
       "website": "http://potionshop.ca",
-      "image": "slytq.png"
+      "image": "witchytq_square.png"
     },
     {
       "name": "SPOOKYDRAWS",
@@ -926,7 +927,6 @@
       "twitch": "TopazTvee",
       "twitter": "topaztvee",
       "instagram": "topaztvee",
-      "youtube": "UCV5PxSaQAV_c3Ng9gJb1_sg",
       "image": "topestv.JPG"
     },
     {
