@@ -58,17 +58,6 @@
       "image": "CypherSquare.png"
     },
     {
-      "name": "CAFEELA",
-      "title": "TEAM LEADER",
-      "type": "VARIETY",
-      "description": "Ela is a pansexual girl from Germany. She loves silly conversations and lewd jokes. Her streams feature \"comfy games\", such as Nintendo franchises, simulations, and indie games. Ela's community, The Café, is all about feeling welcome, valid, and cozy. You're always invited for a cuppa!",
-      "priority": 50,
-      "twitch": "CafeEla",
-      "twitter": "TheCafeEla",
-      "instagram": "TheCafeEla",
-      "image": "ElaSquare.png"
-    },
-    {
       "name": "READYSETBEN",
       "title": "TEAM LEADER",
       "type": "VARIETY",
@@ -78,18 +67,6 @@
       "twitter": "ReadySetBen",
       "instagram": "ReadySetBen",
       "image": "LittleLegsSquare.png"
-    },
-    {
-      "name": "GLENNANGEL",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Service with a smile made manifest. Glenn Ángel is an excitable Latinx variety streamer who enjoys Multiplayer Online Games. FFXIV is his main game but you will catch him playing other MMOs such as ESO or battle royales. He loves to practice other languages live so stop by with a \"Ça va?\" \"Tudo Bem?\" or \"¡Hola!\"",
-      "priority": 50,
-      "twitch": "GlennAngel",
-      "twitter": "HelloGlennAngel",
-      "instagram": "glennangel",
-      "website": "https://helloglennangel.com/",
-      "image": "GlennSquare.png"
     },
     {
       "name": "THATNERDVIOLET",
@@ -114,8 +91,19 @@
       "image": "GaymerSquare.png"
     },
     {
+      "name": "CAFEELA",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Ela is a pansexual girl from Germany. She loves silly conversations and lewd jokes. Her streams feature \"comfy games\", such as Nintendo franchises, simulations, and indie games. Ela's community, The Café, is all about feeling welcome, valid, and cozy. You're always invited for a cuppa!",
+      "priority": 50,
+      "twitch": "CafeEla",
+      "twitter": "TheCafeEla",
+      "instagram": "TheCafeEla",
+      "image": "ElaSquare.png"
+    },
+    {
       "name": "FRANKTHEPEGASUS",
-      "title": "TEAM LEADER",
+      "title": "",
       "type": "VARIETY",
       "description": "FrankthePegasus is an excitable gamer who giggles her way through simulation and sandbox games. She makes games come alive by putting herself in silly situations to make others laugh. Frank's specialty is her ability to connect with her viewers and her passion for bringing good into the world via charity.\n",
       "priority": 10,
@@ -124,6 +112,18 @@
       "instagram": "FrankthePegasus",
       "youtube": "FrankThePegasus",
       "image": "FrankSquare.png"
+    },
+    {
+      "name": "GLENNANGEL",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Service with a smile made manifest. Glenn Ángel is an excitable Latinx variety streamer who enjoys Multiplayer Online Games. FFXIV is his main game but you will catch him playing other MMOs such as ESO or battle royales. He loves to practice other languages live so stop by with a \"Ça va?\" \"Tudo Bem?\" or \"¡Hola!\"",
+      "priority": 50,
+      "twitch": "GlennAngel",
+      "twitter": "HelloGlennAngel",
+      "instagram": "glennangel",
+      "website": "https://helloglennangel.com/",
+      "image": "GlennSquare.png"
     },
     {
       "name": "STEPHNEEE_PLZ",
@@ -399,7 +399,7 @@
     },
     {
       "name": "SIERRAXMYST",
-      "title": "TEAM LEADER",
+      "title": "",
       "type": "VARIETY",
       "description": "Sierra Myst is a Queer Drag content creator from space, bringing you colourful personality and looks on Twitch! Catch Sierra in and out of drag playing a variety of games on with a focus on science-fiction, simulation, and trying to make a cozy community for everyone!",
       "priority": 10,
@@ -887,7 +887,7 @@
       "name": "SUPERCALIY",
       "title": "",
       "type": "VARIETY",
-      "description": "Supercaliy is a 28 year old variety streamer from Boston who enjoys a wide range of games from wholesome, cozy games to thrilling, horror games. As a openly gay person and survivor of heart disease, it’s been his goal to use his platform to create a safe place for everyone.",
+      "description": "Supercaliy is a 29 year old variety streamer from Boston who enjoys a wide range of games from wholesome, cozy games to thrilling, horror games. As a openly gay person and survivor of heart disease, it’s been his goal to use his platform to create a safe place for everyone.",
       "priority": 1,
       "twitch": "Supercaliy",
       "twitter": "Supercaliy",
