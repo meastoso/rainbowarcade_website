@@ -95,7 +95,7 @@
       "title": "",
       "type": "VARIETY",
       "description": "Ela is a pansexual girl from Germany. She loves silly conversations and lewd jokes. Her streams feature \"comfy games\", such as Nintendo franchises, simulations, and indie games. Ela's community, The Café, is all about feeling welcome, valid, and cozy. You're always invited for a cuppa!",
-      "priority": 50,
+      "priority": 1,
       "twitch": "CafeEla",
       "twitter": "TheCafeEla",
       "instagram": "TheCafeEla",
@@ -106,7 +106,7 @@
       "title": "",
       "type": "VARIETY",
       "description": "FrankthePegasus is an excitable gamer who giggles her way through simulation and sandbox games. She makes games come alive by putting herself in silly situations to make others laugh. Frank's specialty is her ability to connect with her viewers and her passion for bringing good into the world via charity.\n",
-      "priority": 10,
+      "priority": 1,
       "twitch": "FrankthePegasus",
       "twitter": "FrankthePegasus",
       "instagram": "FrankthePegasus",
@@ -118,7 +118,7 @@
       "title": "",
       "type": "VARIETY",
       "description": "Service with a smile made manifest. Glenn Ángel is an excitable Latinx variety streamer who enjoys Multiplayer Online Games. FFXIV is his main game but you will catch him playing other MMOs such as ESO or battle royales. He loves to practice other languages live so stop by with a \"Ça va?\" \"Tudo Bem?\" or \"¡Hola!\"",
-      "priority": 50,
+      "priority": 1,
       "twitch": "GlennAngel",
       "twitter": "HelloGlennAngel",
       "instagram": "glennangel",
@@ -272,6 +272,7 @@
       "twitch": "BirdofChess",
       "twitter": "BirdofChess",
       "instagram": "BirdofChess",
+      "youtube": "birdofchess",
       "image": "Rook.jpg"
     },
     {
@@ -495,7 +496,7 @@
       "image": "GOJGSquare.png"
     },
     {
-      "name": "Saffista",
+      "name": "SAFFISTA",
       "title": "",
       "type": "VARIETY",
       "description": "Saffista is a variety streamer who is passionate about representation and visibility. Her goal is to build a welcoming and inclusive space that everyone can call home. She loves coffee, RPGs, Indies, crafting, and playing shooters poorly. Y’all come say hey and hang out for a while.",
@@ -517,8 +518,8 @@
     {
       "name": "ALLEEMAC",
       "title": "",
-      "type": "ESO",
-      "description": "Allee is described as a ball of pure chaotic rainbow energy who is unapologetically herself. Her primary stream game is Elder Scrolls Online, but she also loves diving into any memeable game she can get her hands on. Her community can be summed up in three words: pizza, crab raves, and chaos.",
+      "type": "VARIETY",
+      "description": "Allee is described as a ball of pure chaotic rainbow energy who is unapologetically herself. She loves diving into any memeable game she can get her hands on. Her community can be summed up in three words: pizza, crab raves, and chaos.",
       "priority": 1,
       "twitch": "AlleeMac",
       "twitter": "AlleeMac",
@@ -865,7 +866,6 @@
       "priority": 1,
       "twitch": "WitchyTQ",
       "twitter": "WitchyTQ",
-      "instagram": "TQDraws",
       "youtube": "WitchyTQ",
       "website": "http://potionshop.ca",
       "image": "witchytq_square.png"
