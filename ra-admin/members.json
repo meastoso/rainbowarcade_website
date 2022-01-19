@@ -241,18 +241,6 @@
       "image": "PleasantlySquare.png"
     },
     {
-      "name": "MERMAIDROYAL",
-      "title": "TEAM LEADER",
-      "type": "VARIETY",
-      "description": "Jude is a content creator, sailor guardian, and cat mom. She is a bisexual nonbinary femme (she/her & they/them) who plays mainly storybased and indie games. Her community, the Mermaid Kingdom, is based in empathy, compassion, and chaotic goodness.",
-      "priority": 10,
-      "twitch": "mermaidroyal",
-      "twitter": "mermaidroyal",
-      "instagram": "MermaidQueenJude",
-      "website": "http://www.mermaidroyal.com/",
-      "image": "MermaidSquare.png"
-    },
-    {
       "name": "EEVOH",
       "title": "",
       "type": "VARIETY",
@@ -264,16 +252,16 @@
       "image": "EevoSquare.png"
     },
     {
-      "name": "BIRDOFCHESS",
+      "name": "ROOKURI",
       "title": "",
       "type": "VARIETY",
-      "description": "Birdofchess, aka Rook, is a variety MMO broadcaster and pansexual woman. Fostering a welcoming and uplifting community, she strives to spread smiles while helping players connect in-game and out. Rook is a Twitch and ArenaNet partner as well as co-host of Gamer Escape's Aetheryte Radio podcast.",
+      "description": "ROOKURI, is a variety MMO broadcaster and pansexual woman. Fostering a welcoming and uplifting community, she strives to spread smiles while helping players connect in-game and out. Rook is a Twitch and ArenaNet partner as well as co-host of Gamer Escape's Aetheryte Radio podcast.",
       "priority": 1,
-      "twitch": "BirdofChess",
-      "twitter": "BirdofChess",
-      "instagram": "BirdofChess",
-      "youtube": "birdofchess",
-      "image": "Rook.jpg"
+      "twitch": "rookuri",
+      "twitter": "rookuri_",
+      "instagram": "rookuri",
+      "youtube": "rookuri",
+      "image": "Rook_2022.png"
     },
     {
       "name": "CREV",
