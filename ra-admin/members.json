@@ -474,13 +474,15 @@
       "image": "JimSquare.JPG"
     },
     {
-      "name": "GO_JG",
+      "name": "FaunAndGames",
       "title": "",
       "type": "VARIETY + TTRPGs",
-      "description": "Jess is a queer Canadian streamer, showrunner and game designer. They stream video and tabletop games on their Twitch channel, love highlighting indie games, queer content, and encouraging a supportive community. She’ll play just about any game if you tell her there’s a queer cutie she can smooch.",
+      "description": "Faun is a queer Canadian streamer, showrunner and game designer. They stream video and tabletop games on their Twitch channel, love highlighting indie games, queer content, and encouraging a supportive community. They’ll play just about any game if you tell they there’s a queer cutie they can smooch.",
       "priority": 1,
-      "twitch": "go_jg",
-      "twitter": "go_jg",
+      "twitch": "faunandgames",
+      "twitter": "FaunNGames",
+      "instagram": "faunandgames",
+      "youtube": "GoJess",
       "image": "GOJGSquare.png"
     },
     {
