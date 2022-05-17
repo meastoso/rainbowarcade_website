@@ -188,7 +188,6 @@
       "description": "Dagonmar is a lewd streamer with a focus on story-heavy games. From lewd and outrgeous comedy, to cute puppy dogs, Dagonmar and his community has something for everyone. Also, his chat sometimes literally turns him into a wolf, but he's definitely (maybe) not a furry.",
       "priority": 1,
       "twitch": "Dagonmar",
-      "twitter": "DagonmarTV",
       "instagram": "DagonmarTV",
       "youtube": "Dagonmar",
       "image": "DagonmarSquare.jpg"
@@ -261,17 +260,6 @@
       "twitter": "CreLMTV",
       "instagram": "CrevLM",
       "image": "CrevSquare.png"
-    },
-    {
-      "name": "AWNR",
-      "title": "",
-      "type": "VARIETY + ARTIST",
-      "description": "When games first started showcasing queer characters, Awnr began to see gaming in a new light. He came to Twitch hoping to spark that same sense of recognition. From adventures, to indies & digital art, he is constantly looking at things through a LGBTQIA+ lens.",
-      "priority": 1,
-      "twitch": "Awnr",
-      "twitter": "Awnr",
-      "instagram": "Awnr",
-      "image": "AwnrSquare.png"
     },
     {
       "name": "KEN2PT0",
@@ -412,7 +400,7 @@
       "type": "VARIETY",
       "description": "Kagenaga (Kazuma) is a trans masc half-Japanese streamer. On his channel you'll find a variety of games being streamed and plenty of different topics being discussed; all ranging from media analysis to Japanese politics and LGBT+ movements around the globe.",
       "priority": 1,
-      "twitch": "kagenaga_LN",
+      "twitch": "kagenaga",
       "twitter": "kagenaga_LN",
       "instagram": "JusticeKazzy",
       "image": "JusticeSquare.png"
@@ -536,18 +524,6 @@
       "youtube": "annedorko",
       "website": "https://www.annedorko.com",
       "image": "AnneDorko.jpg"
-    },
-    {
-      "name": "AQUARTERGHOST",
-      "title": "",
-      "type": "VARIETY",
-      "description": "AQuarterGhost is a transgender nonbinary person that creates a safe space for LGBTQIA2+ individuals. They stream chill crafting and variety of indie games. Their goal is to raise awareness and amplify transgender voices by cultivating a space that speaks out on LGBTQIA2+ issues.",
-      "priority": 1,
-      "twitch": "AQuarterGhost",
-      "twitter": "AQuarterGhost",
-      "instagram": "AQuarterGhost",
-      "youtube": "AQuarterGhost",
-      "image": "AQuarterSqare.jpg"
     },
     {
       "name": "BLINDJUSTICE90",
@@ -747,17 +723,6 @@
       "image": "nicholasvanj.jpg"
     },
     {
-      "name": "OPHELIAUP",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Serving you glamor, scares, and laughs, OpheliaUp is a drag artist and queer content creator! She showcases a broad variety of games, from survival horror to MMOs to battle royales, while fostering a tight-knit community based on inclusivity, authenticity, and positivity!",
-      "priority": 1,
-      "twitch": "OpheliaUp",
-      "twitter": "OpheliaUp",
-      "instagram": "MissOpheliaUp",
-      "image": "opheliaup.JPG"
-    },
-    {
       "name": "PANTSTRESBIEN",
       "title": "",
       "type": "VARIETY",
@@ -800,7 +765,7 @@
       "priority": 1,
       "twitch": "AnnieMayPlay",
       "twitter": "AnnieMayPlay",
-      "image": "roodanniemays.png"
+      "image": "anniemayplays.png"
     },
     {
       "name": "SAMMYMJAY",
@@ -918,17 +883,6 @@
       "youtube": "https://youtube.com/channel/UCfSzjdkX5rc_j9UDhWUuDdw",
       "website": "https://www.danaebydesign.com",
       "image": "venuswitchery.png"
-    },
-    {
-      "name": "WXNNIE_",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Wxnnie is an incredibly comfy Queer Vietnamese Gray-Ace variety streamer. On their Twitch channel, you’ll find them talking about neurodiversity, making silly puns, and providing a warm place to get cozy while playing Indie games. They welcome you to the Wxnner’s Cafe!",
-      "priority": 1,
-      "twitch": "Wxnnie_",
-      "twitter": "_Wxnnie",
-      "instagram": "Wxnnie_",
-      "image": "wxnnie.png"
     },
     {
       "name": "JAYYYCUBBB",
