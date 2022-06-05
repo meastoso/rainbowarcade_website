@@ -92,10 +92,10 @@
     },
     {
       "name": "CAFEELA",
-      "title": "",
+      "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Ela is a pansexual girl from Germany. She loves silly conversations and lewd jokes. Her streams feature \"comfy games\", such as Nintendo franchises, simulations, and indie games. Ela's community, The Café, is all about feeling welcome, valid, and cozy. You're always invited for a cuppa!",
-      "priority": 1,
+      "priority": 50,
       "twitch": "CafeEla",
       "twitter": "TheCafeEla",
       "instagram": "TheCafeEla",
@@ -149,18 +149,6 @@
       "image": "kynetiq.jpg"
     },
     {
-      "name": "CHILIFARMER",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Chili is a wholesome, yet quietly lewd gay man. He streams MMORPGs and JRPGs. He loves cute and colorful games that make him “UwU”. He loves to encourage all to be their authentic selves and spread the power of friendship around the world.",
-      "priority": 1,
-      "twitch": "Chilifarmer",
-      "twitter": "ChilifarmerG",
-      "instagram": "Chili_Farmer",
-      "youtube": "ChiliFarmer",
-      "image": "ChiliSquare.png"
-    },
-    {
       "name": "TheRainbowBard",
       "title": "",
       "type": "VARIETY",
@@ -180,17 +168,6 @@
       "twitter": "Kensington17tv",
       "instagram": "Kensington17",
       "image": "KensingtonSquare.png"
-    },
-    {
-      "name": "DAGONMAR",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Dagonmar is a lewd streamer with a focus on story-heavy games. From lewd and outrgeous comedy, to cute puppy dogs, Dagonmar and his community has something for everyone. Also, his chat sometimes literally turns him into a wolf, but he's definitely (maybe) not a furry.",
-      "priority": 1,
-      "twitch": "Dagonmar",
-      "instagram": "DagonmarTV",
-      "youtube": "Dagonmar",
-      "image": "DagonmarSquare.jpg"
     },
     {
       "name": "NICOMALAON",
@@ -236,7 +213,7 @@
       "twitch": "Eevoh",
       "twitter": "Eevohhh",
       "instagram": "Eevohhh",
-      "image": "EevoSquare.png"
+      "image": "EevohSquare.png"
     },
     {
       "name": "ROOKURI",
@@ -504,15 +481,6 @@
       "image": "Amethyst.png"
     },
     {
-      "name": "ANDREWARCADE",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Andrew Arcade is a gay variety streamer on Twitch. He has a focus on simulation games paired along with a love for competitive games and JRPGs. Some of his favorites include Dead by Daylight, Animal Crossing, and Persona. Stop on by and get a taste of all the unexpected shenanigans that go down!",
-      "priority": 1,
-      "twitch": "AndrewArcade",
-      "image": "AndrewArcade.jpg"
-    },
-    {
       "name": "ANNEDORKO",
       "title": "",
       "type": "MUSIC",
@@ -587,13 +555,13 @@
       "name": "DONATARTE",
       "title": "",
       "type": "VARIETY",
-      "description": "Dona Tarte is a drag artist and professional baker from Dublin, Ireland. On her channel you can expect gorgeous baked goods, drag transformations, as well as relaxed boy streams, variety gameplay and copious amounts of sarcasm. The cherry on the top is her fabulous and welcoming community.",
+      "description": "Dona is an Irish Queer Content Creator, Host and Drag Baker based in London, UK. When she's not baking up a storm, hosting fun events or burning down her kitchen (and wigs), you can find her out of drag, playing story driven games, new releases and simulators with her warm and chill community with a sprinkle of tech issues!",
       "priority": 1,
       "twitch": "DonaTarte",
       "twitter": "Dona_Tarte",
       "instagram": "Dona_Tarte",
       "website": "https://www.donatarte.com",
-      "image": "DonaTarte.png"
+      "image": "DonaSquare.png"
     },
     {
       "name": "GRZLY",
@@ -630,17 +598,6 @@
       "instagram": "iGeekedOut",
       "youtube": "UCNDtz1DcYL8ZGqFu350aYQQ",
       "image": "igeekedout.jpg"
-    },
-    {
-      "name": "JEFFBRUTLAG",
-      "title": "",
-      "type": "VARIETY",
-      "description": "Jeff is a gay, non-binary writer and variety streamer (pronouns are he/they), focusing on story driven games, horror games, Nintendo games, and discussions around LGBTQIA+ topics. He aims to make his space like a cozy, queer coffee shop full of Sailor Moon-esque trinkets and decorations.",
-      "priority": 1,
-      "twitch": "Jeffbrutlag",
-      "twitter": "Jeffbrutlag",
-      "instagram": "Jeffbrutlag",
-      "image": "jeffbrutlag.jpg"
     },
     {
       "name": "KAZE_X",
@@ -755,7 +712,7 @@
       "twitter": "ProjectRuby",
       "instagram": "theprojectruby",
       "youtube": "ProjectRuby",
-      "image": "projectruby.jpg"
+      "image": "projectrubysquare.jpg"
     },
     {
       "name": "ANNIEMAYPLAY",
